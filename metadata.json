@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Gama Terapias Integradas",
+  "description": "Website institucional para a clínica Gama Terapias Integradas, com foco em saúde mental e física multidisciplinar na Ilha do Governador, Rio de Janeiro. Design moderno com suporte a dark mode, agendamento de consultas e inteligência artificial para suporte ao paciente.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
